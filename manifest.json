@@ -1,0 +1,22 @@
+{
+  "name": "Gemini Expense Tracker",
+  "short_name": "FinTrack",
+  "description": "Your personalized, mobile-first expense and budget manager.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#4f46e5",
+  "icons": [
+    { 
+      "src": "/icons/192x192.png", 
+      "sizes": "192x192", 
+      "type": "image/png" 
+    },
+    { 
+      "src": "/icons/512x512.png", 
+      "sizes": "512x512", 
+      "type": "image/png" 
+    }
+    // You should replace the placeholder images with real, permanent icon files in your /public/icons/ directory.
+  ]
+}
